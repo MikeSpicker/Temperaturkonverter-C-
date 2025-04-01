@@ -1,0 +1,14 @@
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\bin\Debug\net8.0\Temperaturkonverter.exe
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\bin\Debug\net8.0\Temperaturkonverter.deps.json
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\bin\Debug\net8.0\Temperaturkonverter.runtimeconfig.json
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\bin\Debug\net8.0\Temperaturkonverter.dll
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\bin\Debug\net8.0\Temperaturkonverter.pdb
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.AssemblyInfoInputs.cache
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.AssemblyInfo.cs
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.csproj.CoreCompileInputs.cache
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.dll
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\refint\Temperaturkonverter.dll
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.pdb
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\Temperaturkonverter.genruntimeconfig.cache
+C:\Users\Spick\Desktop\Temperaturkonverter\Temperaturkonverter\Temperaturkonverter\obj\Debug\net8.0\ref\Temperaturkonverter.dll
